@@ -1,5 +1,7 @@
 ## About Me
 
-Designer who builds. I approach UX through systems thinking — whether that's mapping user behavior, structuring information, or writing the code that brings it to life.
+AI Design Engineer focused on UX, systems thinking, and product implementation.
 
-Graduated in ICT Engineering (Mobile Solutions) from Metropolia UAS. Switched from code to design two years ago. Currently seeking my first full-time design role.
+I design digital products by mapping user behavior, structuring information, and turning ideas into working interfaces with Codex.
+
+Graduated in ICT Engineering (Mobile Solutions) from Metropolia University of Applied Sciences. Now work across both design and development.
